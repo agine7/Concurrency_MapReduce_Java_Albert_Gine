@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Concurrent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Concurrency_MapReduce-597da8b84d240263f65a61e5819d90aa85f3614f/out/production/Concurrent/WordCount.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Concurrency_MapReduce-597da8b84d240263f65a61e5819d90aa85f3614f/out/production/Concurrent/guava-20.0-hal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

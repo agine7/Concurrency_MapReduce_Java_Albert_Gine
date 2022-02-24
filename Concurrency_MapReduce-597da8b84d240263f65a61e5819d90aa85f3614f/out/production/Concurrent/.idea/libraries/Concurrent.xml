@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Concurrent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WordCount.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guava-20.0-hal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
